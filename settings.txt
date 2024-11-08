@@ -1,0 +1,8 @@
+G=0.1
+dt=0.5
+collisionDistance=5.0
+cameraSpeed=5.0
+zoomFactor=1.1
+numOfParticles=200
+energyAbsFactor=10
+initialMass=2
